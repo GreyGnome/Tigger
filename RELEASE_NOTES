@@ -1,0 +1,7 @@
+Version 0.2-rc1:
+	Converted the license to Apache-2.0. Note that the ooPinChangeInt library still uses
+	the GPL v. 3.0. I will try to get that changed.
+
+	Applied version control with Git. Zip file is on bintray.
+
+Version 0.1: Initial Release
