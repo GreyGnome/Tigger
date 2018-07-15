@@ -1,14 +1,14 @@
 # LITERAL1 specifies constants
 
 # KEYWORD1 specifies datatypes and C/C++ keywords
-Tigger	KEYWORD1	Tigger
-CallBackInterface	KEYWORD1	CallBackInterface
+Tigger	KEYWORD1
+CallBackInterface	KEYWORD1
 
 # KEYWORD2 specifies methods and functions
-getCount	KEYWORD2	getCount
-getCountNoReset	KEYWORD2	getCountNoReset
-getPin	KEYWORD2	getPin
-cbmethod	KEYWORD2	cbmethod
-getStartTime	KEYWORD2	getStartTime
-getMillis	KEYWORD2	getMillis
-wonderful	KEYWORD2	wonderful
+getCount	KEYWORD2
+getCountNoReset	KEYWORD2
+getPin	KEYWORD2
+cbmethod	KEYWORD2
+getStartTime	KEYWORD2
+getMillis	KEYWORD2
+wonderful	KEYWORD2
